@@ -1,0 +1,110 @@
+html {
+    display: block;
+}
+body {
+    display: block;
+}
+
+p {
+    margin: 10px 10px;
+
+}
+
+h1 {
+    font-size: 34px;
+    font-weight: 700;
+    font-family: Oswald, sans-serif;
+}
+
+h2 {
+    display: block;
+    font-weight: 500;
+    font-size: 24px;
+    font-family: Alegreya,'Times New Roman', Times, serif, ;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color {
+    display: inline-block;
+    width: 30%;
+    padding: 40px 0;
+    text-align: center;
+    margin: 20px auto;
+    height: 50%;
+    border-radius: 50%;
+    font-size: larger;
+}
+
+.cornflower {
+    background-color:cornflowerblue;
+    color:white;
+}
+
+.tomato {
+    background-color: tomato;
+    color:white;
+}
+
+.seagreen {
+    background-color: seagreen;
+    color:white;
+}
+
+.fuchsia {
+    background-color: fuchsia;
+    color:white;
+    
+}
+
+.fontpanels {
+    text-align: center;
+    display: inline-block;
+    margin: 0 25px;
+}
+
+.fontname {
+    display: block;
+    font-weight: 400;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.noto {
+    display: inline-block;
+    font-family: Noto Sans;
+}
+
+.Alegreya {
+    display: inline;
+    font-family: Alegreya;
+}
+
+.Oswald {
+    font-family: Oswald;
+}
+
+.regular {
+    font-size: 20px;
+}
+
+.bold {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.italic {
+    font-size: 20px;
+    font-style: italic;
+}
+
+li {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Noto Sans';
+}
+
